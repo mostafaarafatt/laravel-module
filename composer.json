@@ -53,6 +53,9 @@
         ],
         "ide": [
             "@php artisan ide-helper:models --dir='modules'"
+        ],
+        "ser-mfs": [
+            "@php artisan mi:f --seed"
         ]
     },
     "extra": {
